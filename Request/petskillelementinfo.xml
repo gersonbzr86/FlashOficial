@@ -1,0 +1,346 @@
+<Result value="true" message="Success!">
+  <item ID="1001" Name="Adicionar bala de canhão extra" EffectPic="" Description="" Pic="-1" />
+  <item ID="1002" Name="Obter 4 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1003" Name="Obter 5 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1004" Name="Obter 6 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1005" Name="Obter 10 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1006" Name="Obter 11 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1007" Name="Obter 12 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1008" Name="Obter 16 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1009" Name="Obter 17 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1010" Name="Obter 18 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1011" Name="Obter 22 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1012" Name="Obter 23 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1013" Name="Obter 24 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1014" Name="Causar 50 pontos de dano" EffectPic="" Description="" Pic="-1" />
+  <item ID="1015" Name="Causar 100 pontos de dano" EffectPic="" Description="" Pic="-1" />
+  <item ID="1016" Name="Causar 150 pontos de dano" EffectPic="" Description="" Pic="-1" />
+  <item ID="1017" Name="Movimento não pode" EffectPic="" Description="Não é possível mover" Pic="-1" />
+  <item ID="1018" Name="Fixo como uma Montanha Nv1" EffectPic="effect003" Description="Recebe Evita Buraco, aumenta o efeito do valor da defesa, mas não pode se mover." Pic="3" />
+  <item ID="1019" Name="Fixo como uma Montanha Nv2" EffectPic="effect003" Description="Recebe Evita Buraco, aumenta o efeito do valor da defesa, mas não pode se mover." Pic="3" />
+  <item ID="1020" Name="Fixo como uma Montanha Nv3" EffectPic="effect003" Description="Recebe Evita Buraco, aumenta o efeito do valor da defesa, mas não pode se mover." Pic="3" />
+  <item ID="1021" Name="Evita poço" EffectPic="" Description="Dura 2 rodadas" Pic="-1" />
+  <item ID="1022" Name="Escudinho Bugou Nv1" EffectPic="effect017" Description="Melhorar armadura" Pic="2" />
+  <item ID="1023" Name="Escudinho Bugou Nv2" EffectPic="effect017" Description="Melhorar armadura" Pic="2" />
+  <item ID="1024" Name="Espada Bogu Nv1" EffectPic="effect016" Description="Aumenta o valor de dano." Pic="1" />
+  <item ID="1025" Name="Espada Bogu Nv2" EffectPic="effect016" Description="Aumenta o valor de dano." Pic="1" />
+  <item ID="1026" Name="Rodada de floração Nv1" EffectPic="effect002" Description="Recuperar vida" Pic="5" />
+  <item ID="1027" Name="Rodada de floração Nv2" EffectPic="effect002" Description="Recuperar vida" Pic="5" />
+  <item ID="1028" Name="Rodada de floração Nv3" EffectPic="effect002" Description="Recuperar vida" Pic="5" />
+  <item ID="1029" Name="Endurecimento Nv1" EffectPic="effect007" Description="Diminui todos os danos recebidos." Pic="7" />
+  <item ID="1030" Name="Endurecimento Nv2" EffectPic="effect007" Description="Diminui todos os danos recebidos." Pic="7" />
+  <item ID="1031" Name="Endurecimento Nv3" EffectPic="effect007" Description="Diminui todos os danos recebidos." Pic="7" />
+  <item ID="1032" Name="Obter 53 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1033" Name="Obter 54 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1034" Name="Obter 55 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1035" Name="O Dano aumenta 10%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1036" Name="O Dano aumenta 20%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1037" Name="O Dano aumenta 30%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1038" Name="Guia" EffectPic="" Description="" Pic="-1" />
+  <item ID="1039" Name="O Dano aumenta 150%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1040" Name="Benção Bugou Nv1" EffectPic="effect014" Description="Aumentar sorte" Pic="4" />
+  <item ID="1041" Name="Benção Bugou Nv2" EffectPic="effect014" Description="Aumentar sorte" Pic="4" />
+  <item ID="1042" Name="Benção Bugou Nv3" EffectPic="effect014" Description="Aumentar sorte" Pic="4" />
+  <item ID="1043" Name="Restauração lenta de vida Nv1" EffectPic="effect033" Description="Recuperar vida" Pic="5" />
+  <item ID="1044" Name="Restauração lenta de vida Nv2" EffectPic="effect033" Description="Recuperar vida" Pic="5" />
+  <item ID="1045" Name="Restauração lenta de vida Nv3" EffectPic="effect033" Description="Recuperar vida" Pic="5" />
+  <item ID="1046" Name="Bola de Formiga de fogo Nv1" EffectPic="effect012" Description="Aumenta valor de defesa." Pic="3" />
+  <item ID="1047" Name="Bola de Formiga de fogo Nv2" EffectPic="effect012" Description="Aumenta valor de defesa." Pic="3" />
+  <item ID="1048" Name="Bola de Formiga de fogo Nv3" EffectPic="effect012" Description="Aumenta o valor de armadura, se se mover perde o efeito." Pic="3" />
+  <item ID="1049" Name="Tiro de ponto fixo Nv1" EffectPic="effect019" Description="Aumenta o valor de armadura, se se mover perde o efeito." Pic="2" />
+  <item ID="1050" Name="Tiro de ponto fixo Nv2" EffectPic="effect019" Description="Aumenta o valor de armadura, se se mover perde o efeito." Pic="2" />
+  <item ID="1051" Name="Melhorar armadura em 50 pontos" EffectPic="effect017" Description="" Pic="-1" />
+  <item ID="1052" Name="Melhorar armadura em 70 pontos" EffectPic="effect017" Description="" Pic="-1" />
+  <item ID="1053" Name="Remover Efeito" EffectPic="" Description="" Pic="-1" />
+  <item ID="1054" Name="Remover Efeito" EffectPic="" Description="" Pic="-1" />
+  <item ID="1055" Name="Obter 58 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1056" Name="Chuva de Deus Nv1" EffectPic="effect005" Description="" Pic="-1" />
+  <item ID="1057" Name="Chuva de Deus Nv2" EffectPic="effect005" Description="" Pic="-1" />
+  <item ID="1058" Name="Recuperar 1000 de Vida" EffectPic="" Description="" Pic="-1" />
+  <item ID="1059" Name="Recuperar 3000 de Vida" EffectPic="" Description="" Pic="-1" />
+  <item ID="1060" Name="Obter 47 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1061" Name="Obter 48 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1062" Name="Obter 49 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1063" Name="Grande Flor Nv1" EffectPic="effect006" Description="Recuperar vida" Pic="5" />
+  <item ID="1064" Name="Grande Flor Nv2" EffectPic="effect006" Description="Recuperar vida" Pic="5" />
+  <item ID="1065" Name="Obter 63 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1066" Name="Obter 64 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1067" Name="Picada de Formiga Nv1" EffectPic="effect001" Description="Refletir Dano" Pic="9" />
+  <item ID="1068" Name="Picada de Formiga Nv2" EffectPic="effect001" Description="Refletir Dano" Pic="9" />
+  <item ID="1069" Name="Obter 70 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1070" Name="Obter 71 de habilidade" EffectPic="" Description="" Pic="-1" />
+  <item ID="1071" Name="Remover Efeito 1072，1073" EffectPic="" Description="" Pic="-1" />
+  <item ID="1072" Name="Poder de fogo superior Nv1" EffectPic="effect016" Description="Aumenta dano, removido quando mover" Pic="1" />
+  <item ID="1073" Name="Poder de fogo superior Nv2" EffectPic="effect016" Description="" Pic="1" />
+  <item ID="1074" Name="O efeito da Bênção do anjo aumenta em 300" EffectPic="" Description="" Pic="-1" />
+  <item ID="1075" Name="O efeito da Bênção do anjo aumenta em 600" EffectPic="" Description="" Pic="-1" />
+  <item ID="1076" Name="Animais de estimação causam 200 de dano ao seu red" EffectPic="effect036" Description="" Pic="-1" />
+  <item ID="1077" Name="Animais de estimação causam 400 de dano ao seu red" EffectPic="effect036" Description="" Pic="-1" />
+  <item ID="1078" Name="Restaura imediatamente 500 de vida" EffectPic="" Description="" Pic="-1" />
+  <item ID="1079" Name="Restaura imediatamente 1000 de vida" EffectPic="" Description="" Pic="-1" />
+  <item ID="1080" Name="Recupera 300 de HP" EffectPic="" Description="" Pic="-1" />
+  <item ID="1081" Name="Recupera 600 de HP" EffectPic="" Description="" Pic="-1" />
+  <item ID="1082" Name="Evita buraco continuamente" EffectPic="" Description="" Pic="-1" />
+  <item ID="1083" Name="Barbeta de V3 Nv1" EffectPic="effect018" Description="Obter o efeito de não-queda, aumento de ataque e sorte. Diminua a defesa. O buff" Pic="6" />
+  <item ID="1084" Name="Barbeta de V3 Nv2" EffectPic="effect018" Description="Obter o efeito de não-queda, aumento de ataque e sorte. Diminua a defesa. O buff" Pic="6" />
+  <item ID="1085" Name="Sorte aumentou em 500" EffectPic="" Description="" Pic="-1" />
+  <item ID="1086" Name="Sorte aumentou em 800" EffectPic="" Description="" Pic="-1" />
+  <item ID="1087" Name="Reduz 1000 de defesa" EffectPic="" Description="" Pic="-1" />
+  <item ID="1088" Name="Reduz 800 de defesa" EffectPic="" Description="" Pic="-1" />
+  <item ID="1089" Name="Obter Habilidade 88" EffectPic="" Description="" Pic="-1" />
+  <item ID="1090" Name="Remover Efeito 1082,1083,1084,1085" EffectPic="" Description="" Pic="-1" />
+  <item ID="1091" Name="Remover Efeito 1086,1087,1088" EffectPic="" Description="" Pic="-1" />
+  <item ID="1092" Name="Torça para Humanos Nv1" EffectPic="effect004" Description="Aumenta ataque, defesa, agilidade, sorte e limite máximo de vida." Pic="10" />
+  <item ID="1093" Name="Torça para Humanos Nv2" EffectPic="effect004" Description="Aumenta ataque, defesa, agilidade, sorte e limite máximo de vida." Pic="10" />
+  <item ID="1094" Name="Aumenta defesa em 100" EffectPic="" Description="" Pic="-1" />
+  <item ID="1095" Name="Aumenta defesa em 150" EffectPic="" Description="" Pic="-1" />
+  <item ID="1096" Name="Aumenta agilidade em 100" EffectPic="" Description="" Pic="-1" />
+  <item ID="1097" Name="Aumenta agilidade em 150" EffectPic="" Description="" Pic="-1" />
+  <item ID="1098" Name="Sorte aumentou em 100" EffectPic="" Description="" Pic="-1" />
+  <item ID="1099" Name="Sorte aumentou em 150" EffectPic="" Description="" Pic="-1" />
+  <item ID="1100" Name="Máximo de Vida elevado em 1000" EffectPic="" Description="" Pic="-1" />
+  <item ID="1101" Name="Máximo de Vida elevado em 2000" EffectPic="" Description="" Pic="-1" />
+  <item ID="1102" Name="Recupere 500 de Vida" EffectPic="" Description="" Pic="-1" />
+  <item ID="1103" Name="Recupere 1000 de Vida" EffectPic="" Description="" Pic="-1" />
+  <item ID="1104" Name="Balas de canhão voadoras x800" EffectPic="" Description="" Pic="-1" />
+  <item ID="1105" Name="Balas de canhão voadoras x1000" EffectPic="" Description="" Pic="-1" />
+  <item ID="1106" Name="Obter 1 Mana" EffectPic="" Description="" Pic="-1" />
+  <item ID="1107" Name="Obter 50 Mana" EffectPic="" Description="" Pic="-1" />
+  <item ID="1108" Name="Obter 3 Mana" EffectPic="" Description="" Pic="-1" />
+  <item ID="1109" Name="Obter Habilidade 98" EffectPic="" Description="" Pic="-1" />
+  <item ID="1110" Name="Remover 50 de Mana" EffectPic="" Description="" Pic="-1" />
+  <item ID="1111" Name="Picada de Formiga Nv1" EffectPic="effect034" Description="" Pic="-1" />
+  <item ID="1112" Name="Picada de Formiga Nv2" EffectPic="effect034" Description="" Pic="-1" />
+  <item ID="1113" Name="Refletir 300 pontos de dano" EffectPic="effect034" Description="" Pic="-1" />
+  <item ID="1114" Name="Refletir 500 pontos de dano" EffectPic="effect034" Description="" Pic="-1" />
+  <item ID="1115" Name="Recuperar 500 HP" EffectPic="" Description="" Pic="-1" />
+  <item ID="1116" Name="Recuperar 1000 HP" EffectPic="" Description="" Pic="-1" />
+  <item ID="1117" Name="Infinitamente perto de invencível" EffectPic="effect035" Description="Pode resistir a maior parte do dano." Pic="7" />
+  <item ID="1118" Name="Crescimento acelerado Nv1" EffectPic="" Description="Melhorar armadura" Pic="3" />
+  <item ID="1119" Name="Crescimento acelerado Nv2" EffectPic="" Description="Melhorar armadura" Pic="3" />
+  <item ID="1120" Name="Crosta de inseto Lv1" EffectPic="" Description="Melhorar armadura" Pic="2" />
+  <item ID="1121" Name="Crosta de inseto Lv2" EffectPic="" Description="Melhorar armadura" Pic="2" />
+  <item ID="1122" Name="Ofensiva de animal de estimação Nv1" EffectPic="" Description="Quando o Mascote atacar o inmigo, o inimigo receberá 10% de dano" Pic="-1" />
+  <item ID="1123" Name="Ofensiva de animal de estimação Nv2" EffectPic="" Description="Quando o Mascote atacar o inmigo, o inimigo receberá 20% de dano" Pic="-1" />
+  <item ID="1124" Name="Ofensiva de animal de estimação Nv3" EffectPic="" Description="Quando o Mascote atacar o inmigo, o inimigo receberá 30% de dano" Pic="-1" />
+  <item ID="1125" Name="O Dano aumenta 100%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1126" Name="O Dano aumenta 120%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1127" Name="O Dano aumenta 140%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1128" Name="O Dano aumenta 300%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1129" Name="O Dano aumenta 350%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1130" Name="Diminui ataque em 200" EffectPic="" Description="Diminui ataque em 200" Pic="-1" />
+  <item ID="1131" Name="Diminui ataque em 150" EffectPic="" Description="Diminui ataque em 150" Pic="-1" />
+  <item ID="1132" Name="Diminui ataque em 100" EffectPic="" Description="Diminui ataque em 100" Pic="-1" />
+  <item ID="1133" Name="O Dano aumenta 120%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1134" Name="O Dano aumenta 180%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1135" Name="Diminui o dano recebido em 500" EffectPic="effect007" Description="Diminui 500 pontos todos os danos recebidos" Pic="7" />
+  <item ID="1138" Name="Probabilidade Crítico cem por cento" EffectPic="" Description="cem porcento crítico" Pic="-1" />
+  <item ID="1139" Name="Ataque do mascote Nv 2 (Dragão dedicado)" EffectPic="" Description="X% danos de Ataque Mascote" Pic="-1" />
+  <item ID="1149" Name="Ataque do mascote Nv 3 (Dragão dedicado)" EffectPic="" Description="X% danos de Ataque Mascote" Pic="-1" />
+  <item ID="1150" Name="Dragon Bomb Lv1" EffectPic="effect042" Description="Decrease HP 1%. Lasts 3 rounds." Pic="14" />
+  <item ID="1151" Name="Dragon Bomb Lv2" EffectPic="effect042" Description="Decrease HP 2%. Lasts 3 rounds." Pic="14" />
+  <item ID="1152" Name="Dragon Bomb Lv3" EffectPic="effect042" Description="Decrease HP 3%. Lasts 3 rounds." Pic="14" />
+  <item ID="1153" Name="Evil Dragon CovenantLv1" EffectPic="effect039" Description="Basic Damage increase 15%. Armor lowered 500." Pic="13" />
+  <item ID="1154" Name="Evil Dragon CovenantLv2" EffectPic="effect039" Description="Basic Damage increase 25%. Armor lowered 650." Pic="13" />
+  <item ID="1155" Name="Evil Dragon CovenantLv1" EffectPic="" Description="Armor lowered 500" Pic="-1" />
+  <item ID="1156" Name="Evil Dragon CovenantLv2" EffectPic="" Description="Armor lowered 650" Pic="-1" />
+  <item ID="1157" Name="Dragon Guardian Lv1" EffectPic="effect033" Description="Regen 2% HP" Pic="-1" />
+  <item ID="1158" Name="Dragon Guardian Lv1" EffectPic="effect033" Description="Regen 4% HP" Pic="-1" />
+  <item ID="1159" Name="Dragon Fire Seal" EffectPic="effect040" Description="Lower HP 1000 each round. Lower extra 2% current HP." Pic="14" />
+  <item ID="1160" Name="Dragon Fire Seal" EffectPic="effect041" Description="Lower HP 2000 each round. Lower extra 4% current HP." Pic="14" />
+  <item ID="1161" Name="True Dragon FuryLv1" EffectPic="effect042" Description="Lower 3000 HP. One-hit at 5%." Pic="-1" />
+  <item ID="1162" Name="True Dragon FuryLv2" EffectPic="effect042" Description="Lower 5000 HP. One-hit at 10%." Pic="-1" />
+  <item ID="1163" Name="Sharp Dragon HornLV1" EffectPic="effect016" Description="Attack increase 150. Damage increase 100." Pic="9" />
+  <item ID="1164" Name="Sharp Dragon HornLV2" EffectPic="effect016" Description="Attack increase 300. Damage increase 200." Pic="9" />
+  <item ID="1165" Name="Sharp Dragon HornLV1" EffectPic="" Description="Attack increase 100." Pic="-1" />
+  <item ID="1166" Name="Sharp Dragon HornLV2" EffectPic="" Description="Attack increase 200." Pic="-1" />
+  <item ID="1167" Name="Remover o estado de Dragão de Fogo" EffectPic="" Description="" Pic="-1" />
+  <item ID="1168" Name="Remover o estado de Dragão dormindo" EffectPic="" Description="" Pic="-1" />
+  <item ID="1169" Name="Remover o estado de Dragão raiva" EffectPic="" Description="(Move ao mesmo tempo a marca do fogo do Dragão inimido)" Pic="-1" />
+  <item ID="1170" Name="Dragão de raiva correndo Nv1" EffectPic="" Description="Cada rodada encontrá inimigo,Mascote vai atacando" Pic="-1" />
+  <item ID="1171" Name="Dragão de raiva correndo Nv2" EffectPic="" Description="Cada rodada encontrá inimigo,Mascote vai atacando" Pic="-1" />
+  <item ID="1172" Name="Guarda de alma de dragão Nv1" EffectPic="" Description="Ao ser atacado recupera Vida" Pic="-1" />
+  <item ID="1173" Name="Guarda de alma de dragão Nv2" EffectPic="" Description="Ao ser atacado recupera Vida" Pic="-1" />
+  <item ID="1174" Name="Dragon Guardian Lv1" EffectPic="effect037" Description="When attacked, have chance of restoring HP." Pic="11" />
+  <item ID="1175" Name="Dragon Guardian Lv2" EffectPic="effect037" Description="When attacked, have chance of restoring HP." Pic="11" />
+  <item ID="1176" Name="Dragão de raiva correndo Nv1" EffectPic="effect038" Description="Cada rodada encontrá inimigo,Mascote vai atacando" Pic="12" />
+  <item ID="1177" Name="Dragão de raiva correndo Nv2" EffectPic="effect038" Description="Cada rodada encontrá inimigo,Mascote vai atacando" Pic="12" />
+  <item ID="1178" Name="Bomba de gelo sólido Nv.1" EffectPic="effect011" Description="Eleva ataque em 100 pontos。" Pic="1" />
+  <item ID="1179" Name="Bomba de gelo sólido Nv.2" EffectPic="effect011" Description="Eleva ataque em 300 pontos。" Pic="1" />
+  <item ID="1180" Name="Bomba de gelo sólido Nv.3" EffectPic="effect011" Description="Eleva ataque em 500 pontos。" Pic="1" />
+  <item ID="1181" Name="Barreira de Cristal Nv.1" EffectPic="effect048" Description="Eleva Armadura em 100 pontos" Pic="8" />
+  <item ID="1182" Name="Barreira de Cristal Nv.2" EffectPic="effect048" Description="Eleva Armadura em 200 pontos" Pic="8" />
+  <item ID="1183" Name="Barreira de Cristal Nv.3" EffectPic="effect048" Description="Eleva Armadura em 300 pontos" Pic="8" />
+  <item ID="1184" Name="Inferno Àrtico Nv.1" EffectPic="effect049" Description="Eleva Danos em 150 pontos" Pic="1" />
+  <item ID="1185" Name="Inferno Àrtico Nv.2" EffectPic="effect049" Description="Eleva Danos em 300 pontos" Pic="1" />
+  <item ID="1186" Name="Inferno Àrtico Nv.1" EffectPic="" Description="Cada rodada diminui Vida em 500" Pic="14" />
+  <item ID="1187" Name="Inferno Àrtico Nv.2" EffectPic="" Description="Cada rodada diminui Vida em 800" Pic="14" />
+  <item ID="1188" Name="Obter Habilidade139" EffectPic="" Description="" Pic="-1" />
+  <item ID="1189" Name="Remover Efeito" EffectPic="" Description="" Pic="-1" />
+  <item ID="1190" Name="Trovão fugaz Nv.1" EffectPic="" Description="Eleva Agilidade em 300 pontos" Pic="5" />
+  <item ID="1191" Name="Trovão fugaz Nv.2" EffectPic="" Description="Eleva Agilidade em 500 pontos" Pic="5" />
+  <item ID="1192" Name="Coração do Fênix Nv.1" EffectPic="" Description="Eleva ataque em 100 pontos" Pic="6" />
+  <item ID="1193" Name="Coração do Fênix Nv.2" EffectPic="" Description="Eleva ataque em 300 pontos" Pic="6" />
+  <item ID="1194" Name="Um golpe matar Exp.Nv.1" EffectPic="" Description="Eleva ataque em 200 pontos" Pic="1" />
+  <item ID="1195" Name="Um golpe matar Exp.Nv.2" EffectPic="" Description="Eleva ataque em 300 pontos" Pic="1" />
+  <item ID="1196" Name="Um golpe matar Exp.Nv.1" EffectPic="" Description="Eleva Danos em 100 pontos" Pic="6" />
+  <item ID="1197" Name="Um golpe matar Exp.Nv.2" EffectPic="" Description="Eleva Danos em 150 pontos" Pic="6" />
+  <item ID="1198" Name="Um golpe matar Exp.Nv.1" EffectPic="effect050" Description="Eleva taxa Crítica em 30%" Pic="9" />
+  <item ID="1199" Name="Um golpe matar Exp.Nv.2" EffectPic="effect050" Description="Eleva taxa Crítica em 50%" Pic="9" />
+  <item ID="1200" Name="Alma de gelo" EffectPic="" Description="Quando chegar sua vez, valor de ataque Mágico Mascotes de todos amigos aumentará" Pic="-1" />
+  <item ID="1201" Name="Veneno Shaman Nv.1" EffectPic="" Description="Danos-100" Pic="4" />
+  <item ID="1202" Name="Veneno Shaman Nv.2" EffectPic="" Description="Danos-200" Pic="4" />
+  <item ID="1203" Name="Veneno Shaman Nv.3" EffectPic="" Description="Danos-300" Pic="4" />
+  <item ID="1204" Name="Torção de Píton Nv.1" EffectPic="effect063" Description="Ataque-300,Defesa-300" Pic="9" />
+  <item ID="1205" Name="Torção de Píton Nv.2" EffectPic="effect063" Description="Ataque-500,Defesa-500" Pic="9" />
+  <item ID="1206" Name="Torção de Píton Nv.1" EffectPic="" Description="Ataque-300,Defesa-300" Pic="-1" />
+  <item ID="1207" Name="Torção de Píton Nv.2" EffectPic="" Description="Ataque-500,Defesa-500" Pic="-1" />
+  <item ID="1208" Name="Massagem chamada Rohgah Nv.1" EffectPic="effect060" Description="Diminui valor ataque Mágico Mascote em 10 pontos" Pic="-1" />
+  <item ID="1209" Name="Massagem chamada Rohgah Nv.2" EffectPic="effect060" Description="Diminui valor ataque Mágico Mascote em 30 pontos" Pic="-1" />
+  <item ID="1210" Name="Súria sanguinária Nv.1" EffectPic="" Description="Vida por cada rodada-500" Pic="14" />
+  <item ID="1211" Name="Súria sanguinária Nv.2" EffectPic="" Description="Vida por cada rodada-1000" Pic="14" />
+  <item ID="1212" Name="Súria sanguinária Nv.1" EffectPic="effect061" Description="Taxa ataque Crítico+20%" Pic="6" />
+  <item ID="1213" Name="Súria sanguinária Nv.2" EffectPic="effect061" Description="Taxa ataque Crítico+50%" Pic="6" />
+  <item ID="1214" Name="Cólera dos dentes Nv.1" EffectPic="" Description="Armadura+100,Vida+1500" Pic="3" />
+  <item ID="1215" Name="Cólera dos dentes Nv.2" EffectPic="" Description="Armadura+200,Vida+3000" Pic="3" />
+  <item ID="1216" Name="Cólera dos dentes Nv.1" EffectPic="" Description="Aumenta Vida em 1500 pontos" Pic="-1" />
+  <item ID="1217" Name="Cólera dos dentes Nv.2" EffectPic="" Description="Aumenta Vida em 3000 pontos" Pic="-1" />
+  <item ID="1218" Name="Cólera dos dentes Nv.1" EffectPic="" Description="" Pic="-1" />
+  <item ID="1219" Name="Cólera dos dentes Nv.2" EffectPic="" Description="" Pic="-1" />
+  <item ID="1220" Name="Desespero eterno Nv.1" EffectPic="" Description="Armadura-100" Pic="7" />
+  <item ID="1221" Name="Desespero eterno Nv.2" EffectPic="" Description="Armadura-200" Pic="7" />
+  <item ID="1222" Name="Mil magia" EffectPic="effect062" Description="Não se pode mover" Pic="9" />
+  <item ID="1223" Name="Coração Vingativo" EffectPic="" Description="Cada vez que seja atacado aumenta valor Mascote 2 pontos" Pic="-1" />
+  <item ID="1224" Name="Inferno Àrtico Nv.1" EffectPic="" Description="Cada rodada diminui Vida em 500" Pic="-1" />
+  <item ID="1225" Name="Inferno Àrtico Nv.2" EffectPic="" Description="Cada rodada diminui Vida em 800" Pic="-1" />
+  <item ID="1226" Name="Súria sanguinária Nv.1" EffectPic="" Description="Em cada rodada diminui Vida em 500" Pic="-1" />
+  <item ID="1227" Name="Súria sanguinária Nv.2" EffectPic="" Description="Em cada rodada diminui Vida em 1000" Pic="-1" />
+  <item ID="1228" Name="Garra ou garras Nv.1" EffectPic="" Description="Impacto dos danos" Pic="9" />
+  <item ID="1229" Name="Garra ou garras Nv.2" EffectPic="" Description="Impacto dos danos" Pic="9" />
+  <item ID="1230" Name="Felino contínua" EffectPic="effect064" Description="Acupultura contínua" Pic="-1" />
+  <item ID="1231" Name="Diminuir todos os danos recebido em 500 ptos" EffectPic="effect065" Description="Diminuir todos os danos recebido em 500 ptos" Pic="7" />
+  <item ID="1232" Name="Obter habilidade 53" EffectPic="" Description="" Pic="-1" />
+  <item ID="1233" Name="Obter habilidade 54" EffectPic="" Description="" Pic="-1" />
+  <item ID="1234" Name="Obter habilidade 55" EffectPic="" Description="" Pic="-1" />
+  <item ID="1235" Name="Contra o próprio danos" EffectPic="effect066" Description="Efeito contra o próprio danos" Pic="-1" />
+  <item ID="1236" Name="300 ptos de impactos de danos" EffectPic="effect008" Description="" Pic="-1" />
+  <item ID="1237" Name="500 ptos de impactos de danos" EffectPic="effect008" Description="" Pic="-1" />
+  <item ID="1238" Name="Onda de amor Nv.1" EffectPic="effect012" Description="Aumentar valor de defesa" Pic="3" />
+  <item ID="1239" Name="Onda de amor Nv.2" EffectPic="effect012" Description="Aumentar valor de defesa" Pic="3" />
+  <item ID="1240" Name="Onda de amor Nv.3" EffectPic="effect012" Description="Aumentar valor de defesa" Pic="3" />
+  <item ID="1241" Name="Proteção dura Nv.1" EffectPic="" Description="Aumentar valor de armadura" Pic="2" />
+  <item ID="1242" Name="Proteção dura Nv.2" EffectPic="" Description="Aumentar valor de armadura" Pic="2" />
+  <item ID="1243" Name="回復1500點生命" EffectPic="" Description="" Pic="-1" />
+  <item ID="1244" Name="回復2500點生命" EffectPic="" Description="" Pic="-1" />
+  <item ID="1245" Name="獲得魔法值2" EffectPic="" Description="每次被擊中增加2點魔法值" Pic="-1" />
+  <item ID="1246" Name="減少所受的傷害650點" EffectPic="effect065" Description="減少所受的傷害650點" Pic="7" />
+  <item ID="1247" Name="減少所受的傷害750點" EffectPic="effect065" Description="減少所受的傷害750點" Pic="7" />
+  <item ID="1248" Name="萌喵治癒Lv1" EffectPic="effect007" Description="減少所受的傷害。" Pic="7" />
+  <item ID="1249" Name="萌喵治癒Lv2" EffectPic="effect007" Description="減少所受的傷害。" Pic="7" />
+  <item ID="1250" Name="萌喵治癒Lv3" EffectPic="effect007" Description="減少所受的傷害。" Pic="7" />
+  <item ID="1251" Name="螞蟻刺針Lv1(貓爪)" EffectPic="effect008" Description="反射傷害。（TIPS在1067）" Pic="-1" />
+  <item ID="1252" Name="螞蟻刺針Lv2(貓爪)" EffectPic="effect008" Description="反射傷害。（TIPS在1068）" Pic="-1" />
+  <item ID="1253" Name="每輪到自己回合扣除對方3點魔法值" EffectPic="" Description="寵物魔法值降低3點" Pic="-1" />
+  <item ID="1254" Name="Diminui ataque em 100" EffectPic="" Description="Diminui ataque em 100" Pic="-1" />
+  <item ID="1255" Name="Diminui ataque em 200" EffectPic="" Description="Diminui ataque em 200" Pic="-1" />
+  <item ID="1256" Name="Diminui ataque em 300" EffectPic="" Description="Diminui ataque em 300" Pic="-1" />
+  <item ID="1257" Name="Seus amigos Armadura aumenta em 100 ptos" EffectPic="effect067" Description="Elevar Armadura em 100 ptos" Pic="8" />
+  <item ID="1258" Name="Seus amigos Armadura aumenta em 200 ptos" EffectPic="effect067" Description="Elevar Armadura em 200 ptos" Pic="8" />
+  <item ID="1259" Name="Seus amigos recuperam Vida em 800 ptos" EffectPic="" Description="Recupera valor Vida." Pic="5" />
+  <item ID="1260" Name="Seus amigos recuperam Vida em 1000 ptos" EffectPic="" Description="Recupera valor Vida." Pic="5" />
+  <item ID="1261" Name="Aumenta Sorte 300 ptos" EffectPic="" Description="Aumenta Sorte 300 ptos" Pic="5" />
+  <item ID="1262" Name="Aumenta Sorte 500 ptos" EffectPic="" Description="Aumenta Sorte 500 ptos" Pic="5" />
+  <item ID="1263" Name="Obtem valor Mágico em 2" EffectPic="" Description="Obtem valor Mágico em 2" Pic="-1" />
+  <item ID="1264" Name="Todos seus amigos aumentam danos em 100" EffectPic="" Description="Elevar Ataque em 100 ptos" Pic="6" />
+  <item ID="1265" Name="Todos seus amigos aumentam danos em 300" EffectPic="" Description="Elevar Ataque em 300 ptos" Pic="6" />
+  <item ID="1266" Name="Diminuir valor Mágico dos inimigos10 ptos" EffectPic="effect068" Description="Diminuir Vida Mascote dos inimigos em 10 ptos de valor Mágico" Pic="-1" />
+  <item ID="1267" Name="Diminuir valor Mágico dos inimigos20 ptos" EffectPic="effect068" Description="Diminuir Vida Mascote dos inimigos em 20 ptos de valor Mágico" Pic="-1" />
+  <item ID="1268" Name="Mascotes dos amigos elevar 5 ptos de valor Mágico" EffectPic="" Description="Mascotes dos amigos elevar 5 ptos de valor Mágico" Pic="-1" />
+  <item ID="1269" Name="Mascotes dos amigos elevar 10 ptos de valor Mágico" EffectPic="" Description="Mascotes dos amigos elevar 10 ptos de valor Mágico" Pic="-1" />
+  <item ID="1270" Name="Diminuir Vida jogadores em 800 Vida" EffectPic="" Description="Diminuir Vida jogadores em 800 Vida" Pic="-1" />
+  <item ID="1271" Name="Diminuir Vida jogadores em 1000 Vida" EffectPic="" Description="Diminuir Vida jogadores em 1000 Vida" Pic="-1" />
+  <item ID="1272" Name="獲得192技能" EffectPic="" Description="獲得核爆技能192" Pic="-1" />
+  <item ID="1273" Name="獲得193技能" EffectPic="" Description="獲得核爆技能193" Pic="-1" />
+  <item ID="1274" Name="空技能" EffectPic="" Description="" Pic="-1" />
+  <item ID="1275" Name="Ganhe 2 MP" EffectPic="" Description="Ganhe 2 MP" Pic="-1" />
+  <item ID="1276" Name="Recuperar 1% Vida" EffectPic="" Description="Recuperar 1% Vida" Pic="1" />
+  <item ID="1277" Name="Recuperar 2% Vida" EffectPic="" Description="Recuperar 2% Vida" Pic="1" />
+  <item ID="1278" Name="Reduz 20% de Dano de Ataque" EffectPic="effect065" Description="Reduz 20% de Dano de Ataque" Pic="7" />
+  <item ID="1279" Name="Reduz 30% de Dano de Ataque" EffectPic="effect065" Description="Reduz 30% de Dano de Ataque" Pic="7" />
+  <item ID="1280" Name="Invisibilidade (Alvo Único)" EffectPic="" Description="Invisibilidade (Alvo Único)" Pic="-1" />
+  <item ID="1281" Name="Reduz 15% Dano de Defesa" EffectPic="effect065" Description="Reduz 15% Dano de Defesa" Pic="15" />
+  <item ID="1282" Name="Reduz 30% Dano de Defesa" EffectPic="effect065" Description="Reduz 30% Dano de Defesa" Pic="15" />
+  <item ID="1283" Name="Reduz 50% Dano de Defesa" EffectPic="effect065" Description="Reduz 50% Dano de Defesa" Pic="15" />
+  <item ID="1284" Name="Regeneração de HP de 30%" EffectPic="" Description="Regeneração de HP de 30%" Pic="1" />
+  <item ID="1285" Name="Regeneração de HP de 30%" EffectPic="" Description="Regeneração de HP de 30%" Pic="1" />
+  <item ID="1286" Name="Sela a habilidade da montaria" EffectPic="effect069" Description="Sela a habilidade da montaria" Pic="9" />
+  <item ID="1287" Name="Sela a habilidade da pet" EffectPic="effect069" Description="Sela a habilidade da pet" Pic="9" />
+  <item ID="1288" Name="Teletransporte" EffectPic="" Description="Teletransporta para um lugar aleatório durante Luta da Arena." Pic="-1" />
+  <item ID="1289" Name="Ganhe Habilidade 210" EffectPic="" Description="Ganhe Ladrão Mesquinho 210, ganhe habilidade 216" Pic="-1" />
+  <item ID="1290" Name="Ganhe Habilidade 211" EffectPic="" Description="Ganhe Ladrão Mesquinho 211, ganhe habilidade 216" Pic="-1" />
+  <item ID="1291" Name="Reduz 1 MP do inimigo" EffectPic="effect068" Description="Reduz 1 MP do inimigo" Pic="-1" />
+  <item ID="1292" Name="Reduz 2 MP do inimigo" EffectPic="effect068" Description="Reduz 2 MP do inimigo" Pic="-1" />
+  <item ID="1293" Name="Ganhe Habilidade 206" EffectPic="" Description="Ganhar Golpe Pesado 206" Pic="-1" />
+  <item ID="1294" Name="Ganhe Habilidade 207" EffectPic="" Description="Ganhar Golpe Pesado 207" Pic="-1" />
+  <item ID="1295" Name="Obter habilidade 214" EffectPic="" Description="Obtém Ataque Pesado 214" Pic="-1" />
+  <item ID="1296" Name="Obter habilidade 215" EffectPic="" Description="Obtém Ataque Pesado 215" Pic="-1" />
+  <item ID="1297" Name="Remove o efeito da Armadilha Amigável" EffectPic="" Description="" Pic="-1" />
+  <item ID="1298" Name="Remove o efeito de Roubo de Vida 1" EffectPic="" Description="" Pic="-1" />
+  <item ID="1299" Name="Remove o efeito de Roubo de Vida 2" EffectPic="" Description="" Pic="-1" />
+  <item ID="1300" Name="Rouba 30% de Habilidades Ativas do inimigo" EffectPic="" Description="Rouba 30% de Habilidades Ativas do inimigo" Pic="-1" />
+  <item ID="1301" Name="Roubar 50 de Habilidades Ativas do inimigo" EffectPic="" Description="Roubar 50 de Habilidades Ativas do inimigo" Pic="-1" />
+  <item ID="1302" Name="Ganhe 1 MP" EffectPic="" Description="Ganhe 1 MP" Pic="-1" />
+  <item ID="1303" Name="Ganhe 2 MP" EffectPic="" Description="Ganhe 2 MP" Pic="-1" />
+  <item ID="1304" Name="Reduz 1 MP do inimigo" EffectPic="effect068" Description="Reduz 1 MP do inimigo" Pic="-1" />
+  <item ID="1305" Name="Reduz 2 MP do inimigo" EffectPic="effect068" Description="Reduz 2 MP do inimigo" Pic="-1" />
+  <item ID="1306" Name="Ganhe 218" EffectPic="" Description="Ganhe Habilidade 218" Pic="-1" />
+  <item ID="1307" Name="Ganhe 219" EffectPic="" Description="Ganhe Habilidade 219" Pic="-1" />
+  <item ID="1308" Name="Recupera 30% de Dano" EffectPic="" Description="Recupera 30% de Dano" Pic="3" />
+  <item ID="1309" Name="Recupera 30% de Dano" EffectPic="" Description="Recupera 30% de Dano" Pic="3" />
+  <item ID="1310" Name="Ganhe Habilidade 220" EffectPic="" Description="Ganhe Habilidade 220" Pic="-1" />
+  <item ID="1311" Name="Ganhe Habilidade 221" EffectPic="" Description="Ganhe Habilidade 221" Pic="-1" />
+  <item ID="1418" Name="Dano+50%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1419" Name="Dano+80%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1420" Name="Dano+120%" EffectPic="" Description="" Pic="-1" />
+  <item ID="1421" Name="Crítico+20%" EffectPic="" Description="Crítico+20%" Pic="20" />
+  <item ID="1422" Name="Aumenta Ataque Mágico" EffectPic="" Description="Aumenta Ataque Mágico" Pic="22" />
+  <item ID="1423" Name="Reduz Resistência" EffectPic="" Description="Reduz Resistência" Pic="21" />
+  <item ID="1424" Name="Aumenta Ataque Mágico" EffectPic="" Description="Aumenta Ataque Mágico" Pic="22" />
+  <item ID="1425" Name="Reduz Resistência" EffectPic="" Description="Reduz Resistência" Pic="21" />
+  <item ID="1426" Name="Aguente por 1 rodada" EffectPic="effect081" Description="Aguente por 1 rodada" Pic="-1" />
+  <item ID="1427" Name="Reduz MP" EffectPic="" Description="Reduz 10 pontos de MP" Pic="-1" />
+  <item ID="1428" Name="Reduz dano em si" EffectPic="" Description="Reduz dano em si e chance de imune a dano crítico" Pic="23" />
+  <item ID="1429" Name="Reduz dano em si" EffectPic="" Description="Reduz dano em si e chance de imune a dano crítico" Pic="23" />
+  <item ID="1430" Name="Imune a ataques críticos" EffectPic="" Description="Imune a ataques críticos" Pic="-1" />
+  <item ID="1431" Name="Imune a ataques críticos" EffectPic="" Description="Imune a ataques críticos" Pic="-1" />
+  <item ID="1432" Name="Marcado invisível" EffectPic="" Description="Jogadores invisíveis marcados" Pic="25" />
+  <item ID="1433" Name="Obter Habilidades" EffectPic="" Description="Obtenha habilidade de aumentar dano" Pic="-1" />
+  <item ID="1434" Name="Aumenta dano" EffectPic="" Description="Aumenta dano" Pic="-1" />
+  <item ID="1435" Name="Regenera saúde após sofrer um ataque letal" EffectPic="effect082" Description="Regenera saúde após sofrer um ataque letal" Pic="24" />
+  <item ID="1436" Name="Área de Efeito (AdE)" EffectPic="" Description="Área de Efeito (AdE)" Pic="-1" />
+  <item ID="1437" Name="Área de Efeito (AdE)" EffectPic="" Description="Área de Efeito (AdE)" Pic="-1" />
+  <item ID="1438" Name="Aumenta o MP usando itens de luta" EffectPic="" Description="Aumenta o MP usando itens de luta" Pic="-1" />
+  <item ID="1999" Name="Ganhe 1 MP" EffectPic="" Description="Ganhe 1 MP" Pic="-1" />
+  <item ID="2000" Name="血量+300" EffectPic="" Description="Vida+300" Pic="-1" />
+  <item ID="2001" Name="攻击+50" EffectPic="" Description="Attack+50" Pic="-1" />
+  <item ID="2002" Name="防御+50" EffectPic="" Description="Defesa+50" Pic="-1" />
+  <item ID="2003" Name="幸运+50" EffectPic="" Description="Sorte+50" Pic="-1" />
+  <item ID="2004" Name="幸运+100" EffectPic="" Description="Sorte+100" Pic="-1" />
+  <item ID="2005" Name="降低被暴击伤害10%" EffectPic="" Description="" Pic="-1" />
+  <item ID="2006" Name="伤害+20" EffectPic="" Description="" Pic="-1" />
+  <item ID="2007" Name="护甲增加20" EffectPic="" Description="" Pic="-1" />
+  <item ID="2008" Name="降低被暴击伤害5%" EffectPic="" Description="" Pic="-1" />
+  <item ID="2009" Name="伤害+10" EffectPic="" Description="" Pic="-1" />
+  <item ID="2010" Name="攻击+25" EffectPic="" Description="攻击+25" Pic="-1" />
+  <item ID="2011" Name="敏捷+25" EffectPic="" Description="" Pic="-1" />
+  <item ID="2012" Name="血量增加1000" EffectPic="" Description="" Pic="-1" />
+  <item ID="2013" Name="傷害+20" EffectPic="" Description="" Pic="-1" />
+  <item ID="2024" Name="攻擊+20" EffectPic="" Description="" Pic="-1" />
+  <item ID="2025" Name="防禦+20" EffectPic="" Description="" Pic="-1" />
+  <item ID="2026" Name="敏捷+20" EffectPic="" Description="" Pic="-1" />
+  <item ID="2027" Name="幸運+20" EffectPic="" Description="" Pic="-1" />
+  <item ID="2028" Name="攻擊+30" EffectPic="" Description="" Pic="-1" />
+  <item ID="2029" Name="防禦+30" EffectPic="" Description="" Pic="-1" />
+  <item ID="2030" Name="敏捷+30" EffectPic="" Description="" Pic="-1" />
+  <item ID="2031" Name="幸運+30" EffectPic="" Description="" Pic="-1" />
+</Result>

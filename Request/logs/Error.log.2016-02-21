@@ -1,0 +1,6 @@
+2016-02-21 00:53:41,569 - [15] - ERROR - Bussiness.Managers.ItemMgr - Init
+System.ArgumentException: Já foi adicionado um item com a mesma chave.
+   em System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   em Bussiness.Managers.ItemMgr.LoadMagicStones(List`1 items)
+   em Bussiness.Managers.ItemMgr.LoadItem(Dictionary`2 infos, Dictionary`2 userBoxs)
+   em Bussiness.Managers.ItemMgr.Init()

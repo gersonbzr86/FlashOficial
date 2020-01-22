@@ -1,0 +1,10 @@
+2018-08-28 18:17:53,084 - [49] - ERROR - Tank.Request.Login - felipealves: fb7523a1-1f16-491b-bd04-2e46999f9041
+2018-08-28 21:12:24,670 - [19] - ERROR - Tank.Request.Login - User Login error
+System.Security.Cryptography.CryptographicException: Dados inválidos.
+
+   em System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   em System.Security.Cryptography.RSACryptoServiceProvider.DecryptKey(SafeKeyHandle pKeyContext, Byte[] pbEncryptedKey, Int32 cbEncryptedKey, Boolean fOAEP, ObjectHandleOnStack ohRetDecryptedKey)
+   em System.Security.Cryptography.RSACryptoServiceProvider.Decrypt(Byte[] rgb, Boolean fOAEP)
+   em Road.Flash.CryptoHelper.RsaDecryt2(RSACryptoServiceProvider rsa, String src)
+   em Tank.Request.Login.ProcessRequest(HttpContext context)
+2018-08-28 21:28:34,613 - [26] - ERROR - Tank.Request.Login - pedroocarai2050: 1b425a1f-d5b6-4df6-ad1c-9a028f8a1d02
